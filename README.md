@@ -39,7 +39,7 @@ This ensures Epic creates the required save structure.
 ---
 #### 2️⃣ Backup Saves (Strongly Recommended)
 Back up these folders:
-- Xbox save location - C:\Users\<username>\AppData\Local\Packages\WarnerBros.Interactive.PHX_ktmk1xygcecda\SystemAppData\wgs\<user-id>
+- Xbox save location - C:\Users\<username>\AppData\Local\Packages\WarnerBros.Interactive.PHX_ktmk1xygcecda
 - Epic Games save location - C:\Users\<username>\AppData\Local\HogwartsLegacy\Saved\SaveGames\<user-id>
 ---
 #### 3️⃣ Run the Tool
